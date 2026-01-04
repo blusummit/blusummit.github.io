@@ -1,0 +1,22 @@
+[
+  {
+    "fund": "TATA India Pharma & Healthcare Fund Regular Plan - Reinvestment of Income Distribution cum capital withdrawal option",
+    "scheme_code": "135811",
+    "error": "API fetch failed"
+  },
+  {
+    "fund": "ICICI Prudential Equity & Debt Fund - Direct Plan - Annual IDCW",
+    "scheme_code": "136114",
+    "error": "API fetch failed"
+  },
+  {
+    "fund": "UTI Silver Exchange Traded Fund",
+    "scheme_code": "151730",
+    "error": "API fetch failed"
+  },
+  {
+    "fund": "UTI Fixed Term Income fund - Series XXIX - I (1134 DAYS) - Direct Plan - Annual IDCW",
+    "scheme_code": "143099",
+    "error": "API fetch failed"
+  }
+]
