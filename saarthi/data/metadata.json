@@ -1,9 +1,16 @@
 {
-  "version": "2026.01",
-  "last_updated": "2026-01-03T17:04:57.213661",
-  "total_funds": 7114,
-  "errors": [],
-  "source": "AMFI India",
+  "version": "3.2.0",
+  "lastUpdated": "2026-04-01",
+  "totalFunds": 7148,
+  "source": "AMFI India via MFApi.in",
   "organization": "BluSummit Ventures",
-  "product": "Saarthi"
+  "product": "Saarthi",
+  "returnsCoverage": {
+    "1year": "45.2%",
+    "3year": "39.4%",
+    "5year": "44.3%",
+    "noReturns": "38.0%"
+  },
+  "outliersNulled": 51,
+  "benchmarksAssigned": 7149
 }
